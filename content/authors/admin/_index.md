@@ -20,7 +20,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Statistics
+- Statistical Machine Learning
+- Causal Inference
 - Predictive/ Preventive Medicine
 - Natural Language Processing
 
@@ -63,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Scientific Assitant at the Sensing, Interaction & Perception Lab at ETH Zurich. My focus lies on applying statistics and statistical machine learning to large medical datasets.
+I am a Scientific Assitant with Professor Christian Holz at the Sensing, Interaction & Perception Lab at ETH Zurich. My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
 Before joining the team around Professor Christian Holz, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assitant under Dr. Matthias Qian and Professor Mari Sako.
 
