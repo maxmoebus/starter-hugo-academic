@@ -32,7 +32,6 @@ experience:
     description: >-
         At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems and data pipelines to ensure that promised delivery times were met for 3bn packages per year.
 
-experience:       
   - title: Business Analytics Intern
     company: Auto1 Group
     company_url: 'https://www.auto1.com/'
@@ -43,7 +42,7 @@ experience:
     description: >-
         At Auto1 Group, I interned in the Business Analytics team and built predictive models to forecast claim rates, developed a web app to create a more profitable product portfolio for the German market and helped redifining the sales strategy for 26 European countries by building KPI-Dashboards.
 
-experience:
+
   - title: Business Analytics Intern
     company: Talanx Group
     company_url: 'https://www.auto1.com/'
@@ -54,7 +53,6 @@ experience:
     description: >-
         At Talanx Group, I interned in the Actuarial Science Team as well as the Product Development Team and supported at automating the calculations of costs and premiums for private savings and investemnt products..
 
-experience:
   - title: Management Consulting Intern
     company: Keinbaum Consultants International
     company_url: 'https://www.kienbaum.com/'
@@ -64,7 +62,6 @@ experience:
     date_end: '2019-03-30'
     description: >-
         At Kienbaum, I interned in the Process Excellence division (now part of EY) consulting the management board of a world-leading metal fitting producer at rethinking its sales strategy as well as organisational structure.
-
 
 design:
   columns: '2'
