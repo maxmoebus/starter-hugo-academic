@@ -25,7 +25,6 @@ experience:
   - title: Business Analysis Intern
     company: Amazon
     company_url: 'https://www.amazon.com/'
-    company_logo: amazon_logo
     location: London, United Kingdom
     date_start: '2020-06-15'
     date_end: '2021-09-18'
@@ -35,7 +34,6 @@ experience:
   - title: Business Analytics Intern
     company: Auto1 Group
     company_url: 'https://www.auto1.com/'
-    company_logo: auto1_logo
     location: Berlin, Germany
     date_start: '2019-06-15'
     date_end: '2019-09-30'
@@ -45,8 +43,7 @@ experience:
 
   - title: Business Analytics Intern
     company: Talanx Group
-    company_url: 'https://www.auto1.com/'
-    company_logo: talanx_logo
+    company_url: 'https://www.talanx.com/'
     location: Düsseldorf, Germany
     date_start: '2018-07-01'
     date_end: '2019-09-30'
@@ -56,7 +53,6 @@ experience:
   - title: Management Consulting Intern
     company: Keinbaum Consultants International
     company_url: 'https://www.kienbaum.com/'
-    company_logo: kienbaum_logo
     location: Düsseldorf, Germany
     date_start: '2017-01-01'
     date_end: '2019-03-30'
