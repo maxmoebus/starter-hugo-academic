@@ -29,8 +29,7 @@ experience:
     location: London, United Kingdom
     date_start: '2020-06-15'
     date_end: '2021-09-18'
-    description: |2-
-    At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems and data pipelines to ensure that promised delivery times were met for 3bn packages per year.
+    description: |2- At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems and data pipelines to ensure that promised delivery times were met for 3bn packages per year.
 
 experience:       
   - title: Business Analytics Intern
@@ -40,8 +39,7 @@ experience:
     location: Berlin, Germany
     date_start: '2019-06-15'
     date_end: '2019-09-30'
-    description: |2-
-    At Auto1 Group, I interned in the Business Analytics team and built predictive models to forecast claim rates, developed a web app to create a more profitable product portfolio for the German market and helped redifining the sales strategy for 26 European countries by building KPI-Dashboards.
+    description: |2- At Auto1 Group, I interned in the Business Analytics team and built predictive models to forecast claim rates, developed a web app to create a more profitable product portfolio for the German market and helped redifining the sales strategy for 26 European countries by building KPI-Dashboards.
 
 experience:
   - title: Business Analytics Intern
@@ -51,8 +49,7 @@ experience:
     location: Düsseldorf, Germany
     date_start: '2018-07-01'
     date_end: '2019-09-30'
-    description: |2-
-    At Talanx Group, I interned in the Actuarial Science Team as well as the Product Development Team and supported at automating the calculations of costs and premiums for private savings and investemnt products..
+    description: |2- At Talanx Group, I interned in the Actuarial Science Team as well as the Product Development Team and supported at automating the calculations of costs and premiums for private savings and investemnt products..
 
 experience:
   - title: Management Consulting Intern
@@ -62,8 +59,7 @@ experience:
     location: Düsseldorf, Germany
     date_start: '2017-01-01'
     date_end: '2019-03-30'
-    description: |2-
-    At Kienbaum, I interned in the Process Excellence division (now part of EY) consulting the management board of a world-leading metal fitting producer at rethinking its sales strategy as well as organisational structure.
+    description: |2- At Kienbaum, I interned in the Process Excellence division (now part of EY) consulting the management board of a world-leading metal fitting producer at rethinking its sales strategy as well as organisational structure.
 
 
 design:
