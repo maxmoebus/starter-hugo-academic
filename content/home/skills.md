@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 42
 
 title: Skills
 subtitle:
@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: ''
-  icon: python
+  icon: Python
   icon_pack: fas
   name: Python
 
