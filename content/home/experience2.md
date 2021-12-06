@@ -24,7 +24,7 @@ title: Experience
 subtitle: Academic
 experience:
   - title: Research Assitant
-    company: SIPLab, ETH Zurich
+    company: SIPLAB, ETH Zurich
     company_url: 'https://inf.ethz.ch/'
     company_logo: eth_logo
     location: Zurich, Switzerland
