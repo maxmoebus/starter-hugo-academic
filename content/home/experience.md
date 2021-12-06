@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Industry
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -28,13 +28,13 @@ experience:
     company_logo: amazon_logo
     location: London, United Kingdom
     date_start: '2020-06-15'
-    date_end: '2021-09-18'
+    date_end: '2020-09-18'
     description: >-
         At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems and data pipelines to ensure that promised delivery times were met for 3bn packages per year.
 
   - title: Business Analytics Intern
     company: Auto1 Group
-    company_url: 'https://www.auto1.com/'
+    company_url: 'https://www.auto1-group.com/'
     company_logo: auto1_logo
     location: Berlin, Germany
     date_start: '2019-06-15'
@@ -49,7 +49,7 @@ experience:
     company_logo: talanx_logo
     location: Düsseldorf, Germany
     date_start: '2018-07-01'
-    date_end: '2019-09-30'
+    date_end: '2018-09-30'
     description: >-
         At Talanx Group, I interned in the Actuarial Science Team as well as the Product Development Team and supported at automating the calculations of costs and premiums for private savings and investemnt products..
 
@@ -59,7 +59,7 @@ experience:
     company_logo: kienbaum_logo
     location: Düsseldorf, Germany
     date_start: '2017-01-01'
-    date_end: '2019-03-30'
+    date_end: '2017-03-30'
     description: >-
         At Kienbaum, I interned in the Process Excellence division (now part of EY) consulting the management board of a world-leading metal fitting producer at rethinking its sales strategy as well as organisational structure.
 
