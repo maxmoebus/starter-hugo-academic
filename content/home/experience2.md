@@ -34,7 +34,7 @@ experience:
         As a research assistant under Profesor Christian Holz at ETH SIPlab, I focus on the analysis of large medical datasets using statistics, statistical machine learning and causal inference.
 
   - title: Research Assitant
-    company: University of Oxford, Saïd Business School
+    company: Saïd Business School, University of Oxford
     company_url: 'https://www.ox.ac.uk/'
     company_logo: ox_logo
     location: Oxford, United Kingdom
@@ -42,7 +42,6 @@ experience:
     date_end: '2021-09-30'
     description: >-
         As a research assistant under Dr Matthias Qian and Profesor Mari Sako, I constructed natural-language processig (NLP) models and contributed to a text annotation tool to enable research about technical developments in the legal industry.
-
 
 design:
   columns: '2'
