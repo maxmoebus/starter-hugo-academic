@@ -6,7 +6,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 39
+weight: 41
 
 title: Experience
 subtitle: Industry
