@@ -7,10 +7,8 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 39
+weight: 40
 
-title: Experience
-subtitle: Industry
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -21,6 +19,9 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+title: Experience
+subtitle: Academic
 experience:
 - title: Business Analysis Intern
     company: Amazon
