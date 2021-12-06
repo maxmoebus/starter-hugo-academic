@@ -38,4 +38,4 @@ I am working as a Research Assitant with Professor Christian Holz at the Sensing
 
 Before joining ETH SIPLab, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assitant under Dr. Matthias Qian and Professor Mari Sako.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
