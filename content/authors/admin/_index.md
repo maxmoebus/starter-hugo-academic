@@ -18,10 +18,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/max-moebus-6a353216b/
 organizations:
-  - name: SIPLab
+  - name: SIPLAB
     url: https://siplab.org/
   - name: ETH Zürich
-    url: https://ethz.ch/en.html
+    url: https://inf.ethz.ch/
 education:
   courses:
     - course: MSc in Statistical Science
