@@ -21,7 +21,8 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  - title: Business Analysis Intern
+experience:
+- title: Business Analysis Intern
     company: Amazon
     company_url: 'https://www.amazon.com/'
     company_logo: amazon_logo
@@ -30,7 +31,7 @@ date_format: Jan 2006
     date_end: '2020-09-18'
     description: >-
         At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems and data pipelines to ensure that promised delivery times were met for 3bn packages per year.
-experience:
+
   - title: Business Analytics Intern
     company: Auto1 Group
     company_url: 'https://www.auto1-group.com/'
