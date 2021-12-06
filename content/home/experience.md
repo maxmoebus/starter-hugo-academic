@@ -22,7 +22,6 @@ experience:
     description: >-
         As a research assistant under Profesor Christian Holz at ETH SIPlab, I focus on the analysis of large medical datasets using statistics, statistical machine learning and causal inference.
         
-experience:
   - title: Research Assitant
     company: University of Oxford, Saïd Business School
     company_url: 'https://www.ox.ac.uk/'
@@ -44,7 +43,6 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
   - title: Business Analysis Intern
     company: Amazon
     company_url: 'https://www.amazon.com/'
