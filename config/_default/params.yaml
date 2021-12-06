@@ -22,9 +22,8 @@ twitter: ''
 
 email: info@maxmoebus.com
 address:
-  street: CNB E 108.1, Universitätstrasse 6
+  street: CNB E 110, Universitätstrasse 6
   city: Zürich
-  region: CA
   postcode: '8092'
   country: Switzerland
   country_code: CH
@@ -64,7 +63,7 @@ highlight: true
 highlight_languages:
   - r
 math: false
-diagram: false
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
