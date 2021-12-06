@@ -6,9 +6,10 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 39
 
 title: Experience
+subtitle: Industry
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
