@@ -6,13 +6,22 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
-  - name: Projects
-    url: '#projects'
-    weight: 30
+    weight: 1
+  - name: Academic Experience
+    url: '#experience2'
+    weight: 2
+  - name: Industry Experience
+    url: '#experience'
+    weight: 4
+  - name: Skills
+    url: '#skills'
+    weight: 5
+  - name: Contact
+    url: '#contact'
+    weight: 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 7
