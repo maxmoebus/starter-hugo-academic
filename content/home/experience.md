@@ -39,7 +39,7 @@ experience:
     description: >-
         At Auto1 Group, I interned in the Business Analytics team and built predictive models to forecast claim rates, developed a web app to create a more profitable product portfolio for the German market and helped redifining the sales strategy for 26 European countries by building KPI-Dashboards.
         
-  - title: Business Analytics Intern
+  - title: Actuarial Science and Product Development Intern  
     company: Talanx Group
     company_url: 'https://www.talanx.com/'
     company_logo: talanx_logo
