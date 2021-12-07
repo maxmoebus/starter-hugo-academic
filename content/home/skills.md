@@ -30,7 +30,7 @@ feature:
   name: Python
 - description: 'Infrasture setup; ETL pipelines ready to feed directly in reports'
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL
 
 # Uncomment to use emoji icons.
