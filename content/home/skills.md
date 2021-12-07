@@ -24,7 +24,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow and keras; Data Visualtisation'
+- description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow, keras and transformers (NLP models on CPU or GPU); Data Visualtisation'
   icon: python
   icon_pack: fab
   name: Python
