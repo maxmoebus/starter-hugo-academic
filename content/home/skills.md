@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 'Applied Statistics, Causal Inference, Stochastic Methods used in Finance'
+- description: 'Applied Statistics; Causal Inference; Stochastic Methods used in Finance'
   icon: chart-line
   icon_pack: fas
   name: Statistics
