@@ -28,7 +28,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 'Infrasture setup; ETL pipelines ready to feed directly in reports'
+- description: 'Infrastructure setup; ETL pipelines ready to feed directly in reports'
   icon: database
   icon_pack: fas
   name: SQL
