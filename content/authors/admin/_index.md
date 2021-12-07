@@ -38,4 +38,6 @@ I am working as a Research Assitant with Professor Christian Holz at the Sensing
 
 Before joining ETH SIPLAB, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assitant under Dr. Matthias Qian and Professor Mari Sako, where I focused on natural language processing.
 
+Besides my studies, I interned in Data Analytics teams at tech companies (Amazon and Auto1 Group), in the Actuarial Science team at an insurance company (Talanx Group) and in Management Consulting (Process Excellence division) at Kienbaum Consultants International (now EY). 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
