@@ -16,19 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: ''
+- description: 'Applied Statistics, Causal Inference, Stochastic Methods used in Finance'
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: ''
+- description: 'Data Analytics incl. tidyverse; Modelling incl. caret; Data Visualisation incl. ggplot and RShiny'
   icon: r-project
   icon_pack: fab
   name: R
-- description: ''
+- description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow and keras; Data Visualtisation'
   icon: python
   icon_pack: fab
   name: Python
-- description: ''
+- description: 'Infrasture setup; ETL pipelines ready to feed directly in reports'
   icon: database
   icon_pack: fab
   name: SQL
