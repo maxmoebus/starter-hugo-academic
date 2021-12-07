@@ -36,6 +36,6 @@ highlight_name: true
 ---
 I am working as a Research Assitant with Professor Christian Holz at the Sensing, Interaction & Perception Lab at ETH Zurich. My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
-Before joining ETH SIPLab, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assitant under Dr. Matthias Qian and Professor Mari Sako.
+Before joining ETH SIPLAB, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assitant under Dr. Matthias Qian and Professor Mari Sako, where I focused on natural language processing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
