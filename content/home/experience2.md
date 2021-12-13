@@ -31,7 +31,7 @@ experience:
     date_start: '2021-10-01'
     date_end: ''
     description: >-
-        As a research assistant under Profesor Christian Holz at ETH SIPlab, I focus on the analysis of large medical datasets using statistics, statistical machine learning and causal inference.
+        As a research assistant under Profesor Christian Holz at ETH SIPLAB, I focus on the analysis of large medical datasets using statistics, statistical machine learning and causal inference.
 
   - title: Research Assistant
     company: Saïd Business School, University of Oxford
