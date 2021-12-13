@@ -30,7 +30,7 @@ education:
     - course: BSc in Statistics
       institution: University College London (UCL)
       year: 2017-2020
-email: ""
+email: "max.moebus@inf.ethz.ch"
 superuser: true
 highlight_name: true
 ---
