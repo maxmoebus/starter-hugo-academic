@@ -23,7 +23,7 @@ date_format: Jan 2006
 title: Experience
 subtitle: Academic
 experience:
-  - title: Research Assitant
+  - title: Research Assistant
     company: SIPLAB, ETH Zurich
     company_url: 'https://inf.ethz.ch/'
     company_logo: eth_logo
@@ -33,7 +33,7 @@ experience:
     description: >-
         As a research assistant under Profesor Christian Holz at ETH SIPlab, I focus on the analysis of large medical datasets using statistics, statistical machine learning and causal inference.
 
-  - title: Research Assitant
+  - title: Research Assistant
     company: Saïd Business School, University of Oxford
     company_url: 'https://www.ox.ac.uk/'
     company_logo: ox_logo
