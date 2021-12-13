@@ -34,7 +34,7 @@ email: "max.moebus@inf.ethz.ch"
 superuser: true
 highlight_name: true
 ---
-I am working as a Research Assistant with Professor Christian Holz at the Sensing, Interaction & Perception Lab at ETH Zurich. My focus lies on applying statistics and statistical machine learning to large medical datasets.
+I am working as a Research Assistant with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at ETH Zurich. My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
 Before joining ETH SIPLAB, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assitant under Dr. Matthias Qian and Professor Mari Sako, where I focused on natural language processing.
 
