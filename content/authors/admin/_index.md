@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:info@maxmoebus.com
+    link: mailto:max.moebus@inf.ethz.ch
   - icon: github
     icon_pack: fab
     link: https://github.com/maxmoebus
