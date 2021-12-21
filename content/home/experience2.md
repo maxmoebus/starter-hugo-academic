@@ -41,7 +41,7 @@ experience:
     date_start: '2021-03-15'
     date_end: '2021-09-30'
     description: >-
-        As a research assistant under Dr Matthias Qian and Profesor Mari Sako, I constructed natural-language processig (NLP) models and contributed to a text annotation tool to enable research about technical developments in the legal industry.
+        As a research assistant under Dr Matthias Qian and Profesor Mari Sako, I constructed natural language processig (NLP) models and contributed to a text annotation tool to enable research about technical developments in the legal industry.
 
 design:
   columns: '2'
