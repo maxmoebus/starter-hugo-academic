@@ -20,7 +20,7 @@ social:
 organizations:
   - name: SIPLAB
     url: https://siplab.org/
-  - name: ETH Zürich
+  - name: ETH Zurich
     url: https://inf.ethz.ch/
 education:
   courses:
