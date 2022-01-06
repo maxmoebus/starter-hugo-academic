@@ -1,3 +1,4 @@
+# copy this to bottom of page to deploy again: {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 title: Max Möbus
 role: Research Assistant
@@ -40,4 +41,4 @@ Before joining ETH SIPLAB, I completed the MSc in Statistical Science at the Uni
 
 Besides my studies, I interned in Data Analytics teams at tech companies (Amazon and Auto1 Group), in the Actuarial Science team at an insurance company (Talanx Group) and in Management Consulting (Process Excellence division) at Kienbaum Consultants International (now EY). 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
