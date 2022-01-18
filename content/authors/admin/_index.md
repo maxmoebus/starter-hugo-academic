@@ -4,8 +4,8 @@ role: Research Assistant
 bio: null
 interests:
   - Statistical Machine Learning
-  - Causal Inference
   - Predictive Medicine & Mobile Health
+  - Causal Inference
   - Natural Language Processing
 social:
   - icon: envelope
