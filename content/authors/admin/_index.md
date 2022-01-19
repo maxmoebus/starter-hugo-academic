@@ -11,9 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:max.moebus@inf.ethz.ch
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/maxmoebus
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/max-moebus-6a353216b/
