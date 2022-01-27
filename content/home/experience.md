@@ -21,7 +21,7 @@ date_format: Jan 2006
 experience:
   - title: Business Analysis Intern
     company: Amazon
-    company_url: 'https://www.amazon.com/'
+    company_url: 'https://www.aboutamazon.com/what-we-do/delivery-logistics'
     company_logo: amazon_logo
     location: London, United Kingdom
     date_start: '2020-06-15'
