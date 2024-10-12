@@ -7,9 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 1
+  - name: Publications
+    url: '#publications'
+    weight: 2
   - name: Academic Experience
     url: '#experience2'
-    weight: 2
+    weight: 3
   - name: Industry Experience
     url: '#experience'
     weight: 4
