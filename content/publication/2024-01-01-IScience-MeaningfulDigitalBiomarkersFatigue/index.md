@@ -13,9 +13,9 @@ authors:
 - Christian Holz
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2024-02-16T00:00:00Z"
 doi: "https://doi.org/10.1016/j.isci.2024.108965"
