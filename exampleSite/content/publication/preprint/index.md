@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "An 2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue preprint / working paper"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -57,9 +57,9 @@ projects:
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue"` references `content/slides/2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue
 ---
 
 {{% callout note %}}

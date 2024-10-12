@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "An 2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue conference paper"
 authors:
 - admin
 - Robert Ford
@@ -58,9 +58,9 @@ projects:
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue"` references `content/slides/2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 2024-01-01-IScience-MeaningfulDigitalBiomarkersFatigue
 ---
 
 {{% callout note %}}
