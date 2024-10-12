@@ -1,5 +1,5 @@
 ---
-title: Max Möbus (Moebus)
+title: "Max Möbus\n(Moebus)"
 role: PhD student
 bio: null
 interests:
