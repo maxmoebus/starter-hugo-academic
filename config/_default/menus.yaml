@@ -9,7 +9,7 @@ main:
     weight: 1
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 2
   - name: Academic Experience
     url: '#experience2'
     weight: 3

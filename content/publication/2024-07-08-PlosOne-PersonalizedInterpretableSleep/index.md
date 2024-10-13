@@ -34,7 +34,7 @@ abstract: Understanding a person’s perceived quality of sleep is an important 
 # Summary. An optional shortened abstract.
 summary: We model sleep quality throughout a whole month based on a wrist-worn wearable. We find that body temperature and cardiovascular activity are partiuclar strong predictors of sleep quality hinting at the importance of the circadian rhythm and the autonomic nervous system.
 
-tags: [Perceived Health, Interpretable Modeling]
+tags: [Perceived Health, Interpretable Modeling, Mobile Health]
 
 # Display this page in the Featured widget?
 featured: true
@@ -67,6 +67,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - 2024-07-08-PlosOne-PersonalizedInterpretableSleep
+- 2024-07-18-EMBC-CardiovascularSleepQuality
+- 2024-08-21-JMIRNT-ANSSleep
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

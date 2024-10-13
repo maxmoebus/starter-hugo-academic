@@ -11,9 +11,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:max.moebus@inf.ethz.ch
+  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=2_MmYCoAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/max-moebus-6a353216b/
+  
 organizations:
   - name: SIPLAB
     url: https://siplab.org/
