@@ -1,5 +1,5 @@
 ---
-title: "Predicting Sleep Quality via Unsupervised Learning of Cardiac Activity"
+title: "Assessing the Role of the Autonomic Nervous System as a Driver of Sleep Quality in Patients With Multiple Sclerosis: Observation Study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
