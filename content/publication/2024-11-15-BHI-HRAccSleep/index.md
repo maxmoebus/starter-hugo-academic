@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In 2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)
-publication_short: **TO APPEAR:** In *BIH*
+publication_short: In *BIH 2024 (TO APPEAR)*
 
 abstract: >-
   Today’s fitness bands and smartwatches typically track heart rates (HR) using optical sensors. Large behavioral studies such as the UK Biobank use activity trackers without such optical sensors and thus lack HR data, which could reveal valuable health trends for the wider population. In this paper, we present the first dataset of wrist-worn accelerometer recordings and electrocardiogram references in uncontrolled at-home settings to investigate the recent promise of IMU-only HR estimation via ballistocardiograms. Our recordings are from 42 patients during the night, totaling 310 hours. We also introduce a frequency-based method to extract HR via curve tracing from IMU recordings while rejecting motion artifacts. Using our dataset, we analyze existing baselines and show that our method achieves a mean absolute error of 0.88 bpm—76% better than previous approaches. Our results validate the potential of IMU-only HR estimation as a key indicator of cardiac activity in existing longitudinal studies to discover novel health insights. Our dataset, Nightbeat-DB, and our source code are available on GitHub: https://github.com/eth-siplab/Nightbeat.
