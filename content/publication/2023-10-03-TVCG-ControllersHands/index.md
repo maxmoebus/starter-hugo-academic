@@ -1,5 +1,5 @@
 ---
-title: "Demographic and Behavioral Correlates of Cybersickness: A Large Lab-in-the-Field Study of 837 Participants"
+title: "Controllers or Bare Hands? A Controlled Evaluation of Input Techniques on Interaction Performance and Exertion in Virtual Reality"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -39,7 +39,7 @@ summary: ""
 tags: [HCI, Interpretable Modeling]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
