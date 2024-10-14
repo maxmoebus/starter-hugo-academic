@@ -34,8 +34,8 @@ content:
     tag: '*'
   - name: Mobile Health
     tag: Mobile Health
-  - name: Predictive Health
-    tag: Predictive Health
+  - name: Perceived Health
+    tag: Perceived Health
   - name: HCI
     tag: HCI
   - name: Interpretable Modeling
