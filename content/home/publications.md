@@ -37,6 +37,8 @@ design:
   view: 4
 ---
 
+ [Check out here](./publication/) for a complete list of my publications.
+
 <!-- Add a dropdown for filtering by tags -->
 <div>
   <label for="tag-filter">Filter by tag:</label>
@@ -45,6 +47,7 @@ design:
     <option value="Perceived Health">Perceived Health</option>
     <option value="Interpretable Modeling">Interpretable Modeling</option>
     <option value="Mobile Health">Mobile Health</option>
+    <option value="HCI">HCI</option>
   </select>
 </div>
 
@@ -59,5 +62,3 @@ design:
     window.location.search = urlParams.toString();
   }
 </script>
-
- [Check out here](./publication/) for a complete list of my publications.
