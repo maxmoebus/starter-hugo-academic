@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 3
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -49,28 +49,5 @@ design:
   view: 4
 ---
 
- [Check out here](./publication/) for a complete list of my publications.
+[Click here](./publication/) for a complete list of my publications.
 
-<!-- Add a dropdown for filtering by tags -->
-<div>
-  <label for="tag-filter">Filter by tag:</label>
-  <select id="tag-filter" name="tag-filter" onchange="filterByTag(this.value)">
-    <option value="">All</option>
-    <option value="Perceived Health">Perceived Health</option>
-    <option value="Interpretable Modeling">Interpretable Modeling</option>
-    <option value="Mobile Health">Mobile Health</option>
-    <option value="HCI">HCI</option>
-  </select>
-</div>
-
-<script>
-  function filterByTag(tag) {
-    const urlParams = new URLSearchParams(window.location.search);
-    if (tag) {
-      urlParams.set('tag', tag);
-    } else {
-      urlParams.delete('tag');
-    }
-    window.location.search = urlParams.toString();
-  }
-</script>
