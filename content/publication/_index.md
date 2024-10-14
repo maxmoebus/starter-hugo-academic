@@ -16,7 +16,7 @@ header:
 
 # Filter on criteria
 filters:
-  tag: ''
+  tags: ''
   date: ''
   author: ''
   publication_type: ''

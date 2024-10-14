@@ -22,14 +22,26 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    page: 1
-    exclude_featured: false
+#  filters:
+#    tag: ''
+#    category: ''
+#    publication_type: ''
+#    author: ''
+#    page: 1
+#    exclude_featured: false
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Mobile Health
+    tag: Mobile Health
+  - name: Predictive Health
+    tag: Predictive Health
+  - name: HCI
+    tag: HCI
+  - name: Interpretable Modeling
+    tag: Interpretable Modeling
 design:
+  columns: '2'
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
