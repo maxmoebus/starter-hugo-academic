@@ -41,7 +41,6 @@ content:
   - name: Interpretable Modeling
     tag: Interpretable Modeling
 design:
-  columns: '2'
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
