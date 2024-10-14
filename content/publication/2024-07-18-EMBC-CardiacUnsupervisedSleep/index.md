@@ -11,8 +11,8 @@ authors:
 
 # Author notes (optional)
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2024-07-18T00:00:00Z"
 doi: ""
