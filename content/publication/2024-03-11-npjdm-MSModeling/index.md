@@ -42,7 +42,8 @@ abstract: Multiple sclerosis (MS) is a neurological disease of the central nervo
 
 summary: ""
 
-tags: [Mobile Health]
+tags:
+- Mobile Health
 
 # Display this page in the Featured widget?
 featured: true

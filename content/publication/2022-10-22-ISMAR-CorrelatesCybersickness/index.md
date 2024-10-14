@@ -38,7 +38,10 @@ abstract: Cybersickness has been one of the main impediments to the widespread a
 
 summary: ""
 
-tags: [HCI, Perceived Health, Interpretable Modeling]
+tags:
+- HCI
+- Perceived Health
+- Interpretable Modeling
 
 # Display this page in the Featured widget?
 featured: false

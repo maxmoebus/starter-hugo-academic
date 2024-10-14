@@ -38,7 +38,8 @@ abstract: >-
 
 summary: We extract HR from wrist-worn accelerometers during sleep by tracing HR curves in the frequncy domain. Our approach further includes motion artifact removal and simple post-processing to bring down the MAE to 0.88 BPM averaged across participants of our novel dataset.
 
-tags: [Mobile Health]
+tags:
+- Mobile Health
 
 # Display this page in the Featured widget?
 featured: true

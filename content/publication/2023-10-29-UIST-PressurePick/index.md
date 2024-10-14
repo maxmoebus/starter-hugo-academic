@@ -36,7 +36,9 @@ abstract: >-
 
 summary: ""
 
-tags: [HCI, Interpretable Modeling]
+tags:
+- HCI
+- Interpretable Modeling
 
 # Display this page in the Featured widget?
 featured: false

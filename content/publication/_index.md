@@ -18,6 +18,7 @@ header:
 filters:
   tag: ''
   date: ''
+  author: ''
   publication_type: ''
 ---
 

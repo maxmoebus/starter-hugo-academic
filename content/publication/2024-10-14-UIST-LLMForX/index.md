@@ -37,7 +37,8 @@ abstract: >-
 
 summary: ""
 
-tags: [HCI]
+tags:
+- HCI
 
 # Display this page in the Featured widget?
 featured: false

@@ -38,7 +38,10 @@ abstract: Fatigue is the most common symptom among multiple sclerosis (MS) patie
 # Summary. An optional shortened abstract.
 summary: We model fatigue *continually* throughout the day based on an arm-worn wearable. Using Generalized Additive Models, we find that increased physical activity, heart rate, sympathetic activity, and parasympathetic activity relate to perceived fatigue. We find that the Autonomic Nervous System (ANS) crucially affects the perception of fatigue and its predictability.
 
-tags: [Perceived Health, Interpretable Modeling, Multiple Sclerosis]
+tags:
+- Perceived Health
+- Interpretable Modeling
+- Multiple Sclerosis
 
 # Display this page in the Featured widget?
 featured: true

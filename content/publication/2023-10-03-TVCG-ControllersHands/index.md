@@ -36,7 +36,9 @@ abstract: Virtual Reality (VR) systems have traditionally required users to oper
 
 summary: ""
 
-tags: [HCI, Interpretable Modeling]
+tags:
+- HCI
+- Interpretable Modeling
 
 # Display this page in the Featured widget?
 featured: false

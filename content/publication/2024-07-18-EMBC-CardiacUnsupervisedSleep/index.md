@@ -35,7 +35,9 @@ abstract: While highly important for a person’s mood, productivity, and physic
 # Summary. An optional shortened abstract.
 summary: We employ unsupervised learning to detect states of cardiac activity on the large MESA database with more than 6,800 participants. We then show that the proportion of time spent in these states strongly correlates with perceived sleep quality in an intensive longitudinal study. Our mothod stringly outperforms using traditional hand-crafted features of cardiac activity and shows that there are patterns during sleep that we still struggle to understand using traditional modeling techniques.
 
-tags: [Perceived Health, Mobile Health]
+tags:
+- Perceived Health
+- Mobile Health
 
 # Display this page in the Featured widget?
 featured: true

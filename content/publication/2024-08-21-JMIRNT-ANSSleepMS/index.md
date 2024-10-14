@@ -39,7 +39,10 @@ abstract: >-
 
 summary: We investigate the physiological drivers of perceived sleep quality in patients with multiple sclerosis (MS) and healthy controls. Most notably, we find that stress and autonomic activity during sleep are crucial for sleep quality in patients with MS, whereas this is less important for healthy individuals using interpretable generalized linear models (GLMs). We find that stress and an activated stress response playa crucial role of MS patients and health individuals alike. Healthy individuals generally seem less impacted by stress, however.
 
-tags: [Perceived Health, Interpretable Modeling, Mobile Health]
+tags:
+- Perceived Health
+- Interpretable Modeling
+- Mobile Health
 
 # Display this page in the Featured widget?
 featured: true
