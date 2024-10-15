@@ -57,11 +57,6 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-  publication_types:
-    - Mobile Health
-    - Perceived Health
-    - HCI
-    - Interpretable Models
 markup:
   _merge: deep
 related:
