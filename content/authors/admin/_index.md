@@ -10,8 +10,8 @@ first_name: Max
 last_name: Moebus
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: 🧐
 
 # Is this the primary user of the site?
 superuser: true
@@ -102,15 +102,15 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: custom/football
+        icon: "custom/football"
       - name: Skiing
         description: ''
         percent: 100
-        icon: custom/ski
+        icon: "custom/ski"
       - name: Sailing
         description: ''
         percent: 100
-        icon: custom/sailboat
+        icon: "custom/sailboat"
 
 
 languages:
