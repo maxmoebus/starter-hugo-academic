@@ -18,7 +18,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: ruderboot.jpeg
           filters:
-            brightness: 0.4
+            brightness: 0.3
           size: cover
           position: left
           parallax: true
@@ -43,7 +43,9 @@ sections:
   #       padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: '👋'
+      title: | 
+      
+      👋
       subtitle: ''
       text: |
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
