@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: ruderboot.jpeg
+          filename: optimist.jpeg
           filters:
             brightness: 0.3
           size: cover
