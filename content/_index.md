@@ -67,7 +67,8 @@ sections:
     content:
       title: Recent Publications
       subtitle: ''
-      text: You can check out a full list of my publications [here](./publication/).
+      text: |
+        You can check out a full list of my publications [here](./publication/).
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
       # Choose how many pages you would like to display (0 = all pages)
