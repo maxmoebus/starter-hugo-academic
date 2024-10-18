@@ -66,7 +66,7 @@ sections:
       spacing:
          is_fullscreen: true
          padding: ['100px', '0px', '0px', '0px']
-  - block: featured
+  - block: collection
     content:
       title: Recent Publications
       subtitle: ''
@@ -81,6 +81,7 @@ sections:
         author: ""
         category: ""
         tag: ""
+        featured_only: true
         exclude_featured: false
         exclude_future: false
         exclude_past: false
