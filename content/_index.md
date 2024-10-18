@@ -52,13 +52,13 @@ sections:
         Besides my studies, I interned in Data Analytics teams at tech companies (Amazon and Auto1 Group), in the Actuarial Science team at an insurance company (Talanx Group) and in Management Consulting (Process Excellence division) at Kienbaum Consultants International (now EY). 
 
         **Research Interests:**
-        * Predictive Medicine & Mobile Health
-          * Wrist-worn Wearables
-          * Perceived Health
-        * Statistical Machine Learning
-          * Methods for Event Prediction
-          * Methods for Irregular Time Series
-          * Causality
+        + Predictive Medicine & Mobile Health
+          + Wrist-worn Wearables
+          + Perceived Health
+        + Statistical Machine Learning
+          + Methods for Event Prediction
+          + Methods for Irregular Time Series
+          + Causality
 
     design:
       columns: '1'
