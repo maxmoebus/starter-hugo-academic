@@ -66,12 +66,12 @@ sections:
       spacing:
          is_fullscreen: true
          padding: ['100px', '0px', '0px', '0px']
-  - block: collection
+  - block: featured
     content:
       title: Recent Publications
       subtitle: ''
       text: |
-        You can check out a full list of my publications [here](./publication/).
+        You can check out a full list of my publications [<ins>here</ins>](./publication/).
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
       # Choose how many pages you would like to display (0 = all pages)

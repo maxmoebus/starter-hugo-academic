@@ -34,6 +34,7 @@ header:
     blox: "navbar"
     show_search: true
     show_theme_chooser: true
+    fixed_to_top: true
     logo:
       text: "Max Moebus"
 
