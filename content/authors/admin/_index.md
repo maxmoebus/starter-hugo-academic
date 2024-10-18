@@ -131,21 +131,19 @@ skills:
         percent: 40
         icon: devicon/azuresqldatabase
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Football
         description: ''
         percent: 100
-        icon: "custom/football"
+        icon: custom/football
       - name: Skiing
         description: ''
         percent: 100
-        icon: "custom/ski"
+        icon: custom/ski
       - name: Sailing
         description: ''
         percent: 100
-        icon: "custom/sailboat"
+        icon: custom/sailboat
 
 
 languages:
