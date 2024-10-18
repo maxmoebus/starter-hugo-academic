@@ -31,6 +31,7 @@ marketing:
 header:
   navbar:
     enable: true
+    fixed_to_top: true
     blox: "navbar"
     show_search: true
     show_theme_chooser: true
