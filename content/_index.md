@@ -10,18 +10,18 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text:
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.4
-          size: cover
-          position: center
-          parallax: false
+    # design:
+    #   css_class: dark
+      # background:
+      #   color: black
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: li-yang-5h_dMuX_7RE-unsplash.webp
+        #   filters:
+        #     brightness: 0.4
+        #   size: cover
+        #   position: center
+        #   parallax: false
   # - block: stats
   #   content:
   #     items:
@@ -42,7 +42,7 @@ sections:
   #       padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: '👋'
       subtitle: ''
       text: |
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
@@ -52,13 +52,13 @@ sections:
         Besides my studies, I interned in Data Analytics teams at tech companies (Amazon and Auto1 Group), in the Actuarial Science team at an insurance company (Talanx Group) and in Management Consulting (Process Excellence division) at Kienbaum Consultants International (now EY). 
 
         **Research Interests:**
-        + Predictive Medicine & Mobile Health
-          + Wrist-worn Wearables
-          + Perceived Health
-        + Statistical Machine Learning
-          + Methods for Event Prediction
-          + Methods for Irregular Time Series
-          + Causality
+        - Predictive Medicine & Mobile Health
+          - Wrist-worn Wearables
+          - Perceived Health
+        - Statistical Machine Learning
+          - Methods for Event Prediction
+          - Methods for Irregular Time Series
+          - Causality
 
     design:
       columns: '1'
