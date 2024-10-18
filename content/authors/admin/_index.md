@@ -77,38 +77,6 @@ work:
     date_end: 2021-09-30
     summary: |
               As a research assistant under Dr Matthias Qian and Professor Mari Sako, I constructed natural language processing (NLP) models and contributed to a text annotation tool to enable research about technical developments in the legal industry.
-  - position: Business Analysis Intern
-    company_name: Amazon
-    company_url: https://www.aboutamazon.com/what-we-do/delivery-logistics
-    company_logo: "custom/amazon_logo"
-    date_start: 2020-06-15
-    date_end: 2020-09-18
-    summary: |
-              At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems, and data pipelines to ensure that promised delivery times were met for 3 billion packages per year.
-  - position: Business Analytics Intern
-    company_name: Auto1 Group
-    company_url: https://www.auto1-group.com/
-    company_logo: "custom/auto1_logo"
-    date_start: 2019-06-15
-    date_end: 2019-09-30
-    summary: |
-      At Auto1 Group, I interned in the Business Analytics team. I built predictive models to forecast claim rates, developed a web app to create a more profitable product portfolio for the German market, and helped redefine the sales strategy for 26 European countries by building KPI-Dashboards.
-  - position: Actuarial Science and Product Development Intern
-    company_name: Talanx Group
-    company_url: https://www.talanx.com/
-    company_logo: "custom/talanx_logo"
-    date_start: 2018-07-01
-    date_end: 2018-09-30
-    summary: |
-      At Talanx Group, I interned in the Actuarial Science Team and Product Development Team. I supported at automating the calculations of costs and premiums for private savings and investment products.
-  - position: Management Consulting Intern
-    company_name: Kienbaum Consultants International
-    company_url: https://www.kienbaum.com/
-    company_logo: "custom/kienbaum_logo"
-    date_start: 2017-01-01
-    date_end: 2017-03-30
-    summary: |
-      At Kienbaum, I interned in the Process Excellence division (now part of EY) consulting the management board of a world-leading metal fitting producer at rethinking its sales strategy as well as organizational structure.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
