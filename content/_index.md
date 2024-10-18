@@ -64,9 +64,9 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent News
+      title: Recent Publications
       subtitle: ''
-      text: ''
+      text: You can check out a full list of my publications here.
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
