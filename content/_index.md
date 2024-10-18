@@ -94,7 +94,6 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-      spacing:
          is_fullscreen: true
          padding: ['0px', '20px', '0px', '20px']
 ---
