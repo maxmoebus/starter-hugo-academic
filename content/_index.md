@@ -18,7 +18,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: ruderboot.jpeg
           filters:
-            brightness: 0.4
+            brightness: 0.3
           size: cover
           position: left
           parallax: true
