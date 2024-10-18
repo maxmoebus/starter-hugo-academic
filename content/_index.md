@@ -63,6 +63,9 @@ sections:
 
     design:
       columns: '1'
+      spacing:
+         is_fullscreen: true
+         padding: ['0px', '20px', '0px', '20px']
   - block: collection
     content:
       title: Recent Publications
@@ -91,5 +94,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+      spacing:
+         is_fullscreen: true
+         padding: ['0px', '20px', '0px', '20px']
 ---
