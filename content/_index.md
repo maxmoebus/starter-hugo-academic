@@ -44,7 +44,7 @@ sections:
     content:
       title: 'Welcome 👋'
       subtitle: ''
-      text: |+
+      text: >
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
         Before joining ETH SIPLAB, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assistant with Dr. Matthias Qian and Professor Mari Sako, where I focused on constructing natural language processing (NLP) models for text classification.
