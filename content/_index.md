@@ -65,7 +65,7 @@ sections:
       columns: '1'
       spacing:
          is_fullscreen: true
-         padding: ['0px', '20px', '0px', '20px']
+         padding: ['20px', '0px', '20px', '0px']
   - block: collection
     content:
       title: Recent Publications
