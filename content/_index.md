@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -20,7 +20,7 @@ sections:
           filters:
             brightness: 0.4
           size: cover
-          position: center
+          position: left
           parallax: true
     columns: '2'
   # - block: stats
@@ -67,9 +67,9 @@ sections:
     content:
       title: Recent Publications
       subtitle: ''
-      text: You can check out a full list of my publications here.
+      text: You can check out a full list of my publications [here](./publication/).
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: publication
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -87,7 +87,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: citation
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
