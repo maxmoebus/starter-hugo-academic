@@ -65,7 +65,7 @@ sections:
       columns: '1'
       spacing:
          is_fullscreen: true
-         padding: ['20px', '0px', '20px', '0px']
+         padding: ['100px', '0px', '0px', '0px']
   - block: collection
     content:
       title: Recent Publications
@@ -91,7 +91,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: citation
       # Reduce spacing
       spacing:
          is_fullscreen: true
