@@ -65,13 +65,13 @@ sections:
       columns: '1'
       spacing:
          is_fullscreen: true
-         padding: ['0px', '20px', '0px', '20px']
+         padding: ['50px', '0px', '50px', '0px']
   - block: collection
     content:
       title: Recent Publications
       subtitle: ''
       text: |
-        You can check out a full list of my publications [here](./publication/).
+        You can check out a full list of my publications [<ins>here</ins>](./publication/).
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
       # Choose how many pages you would like to display (0 = all pages)
@@ -81,6 +81,7 @@ sections:
         author: ""
         category: ""
         tag: ""
+        featured_only: true
         exclude_featured: false
         exclude_future: false
         exclude_past: false
@@ -91,7 +92,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: citation
       # Reduce spacing
       spacing:
          is_fullscreen: true

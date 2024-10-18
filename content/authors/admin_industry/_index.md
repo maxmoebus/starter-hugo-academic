@@ -46,37 +46,41 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-3414-7142
 
-education:
-  - area: PhD Computer Science
-    institution: ETH Zurich
-    date_start: 2021-04-01
-    date_end: ''
-  - area: MSc Statistical Science
-    institution: University of Oxford
-    date_start: 2020-09-01
-    date_end: 2021-08-31
-  - area: BSc Statistics
-    institution: Universoty College London (UCL)
-    date_start: 2017-09-01
-    date_end: 2020-08-31
+education: []
 
 work:
-  - position: Research Assistant
-    company_name: SIPLAB, ETH Zurich
-    company_url: https://inf.ethz.ch/
-    company_logo: "custom/eth_logo"
-    date_start: 2021-10-01
-    date_end: 2022-03-30
+  - position: Business Analysis Intern
+    company_name: Amazon
+    company_url: https://www.aboutamazon.com/what-we-do/delivery-logistics
+    company_logo: "custom/amazon_logo"
+    date_start: 2020-06-15
+    date_end: 2020-09-18
     summary: |
-              As a research assistant with Professor Christian Holz at ETH SIPLAB, I focused on the analysis of perceived health for Multiple Sclerosis patients using wearable sensor data.
-  - position: Graduate Research Assistant
-    company_name: Saïd Business School, University of Oxford
-    company_url: https://www.ox.ac.uk/
-    company_logo: "custom/ox_logo"
-    date_start: 2021-03-15
-    date_end: 2021-09-30
+              At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems, and data pipelines to ensure that promised delivery times were met for 3 billion packages per year.
+  - position: Business Analytics Intern
+    company_name: Auto1 Group
+    company_url: https://www.auto1-group.com/
+    company_logo: "custom/auto1_logo"
+    date_start: 2019-06-15
+    date_end: 2019-09-30
     summary: |
-              As a research assistant under Dr Matthias Qian and Professor Mari Sako, I constructed natural language processing (NLP) models and contributed to a text annotation tool to enable research about technical developments in the legal industry.
+      At Auto1 Group, I interned in the Business Analytics team. I built predictive models to forecast claim rates, developed a web app to create a more profitable product portfolio for the German market, and helped redefine the sales strategy for 26 European countries by building KPI-Dashboards.
+  - position: Actuarial Science and Product Development Intern
+    company_name: Talanx Group
+    company_url: https://www.talanx.com/
+    company_logo: "custom/talanx_logo"
+    date_start: 2018-07-01
+    date_end: 2018-09-30
+    summary: |
+      At Talanx Group, I interned in the Actuarial Science Team and Product Development Team. I supported at automating the calculations of costs and premiums for private savings and investment products.
+  - position: Management Consulting Intern
+    company_name: Kienbaum Consultants International
+    company_url: https://www.kienbaum.com/
+    company_logo: "custom/kienbaum_logo"
+    date_start: 2017-01-01
+    date_end: 2017-03-30
+    summary: |
+      At Kienbaum, I interned in the Process Excellence division (now part of EY) consulting the management board of a world-leading metal fitting producer at rethinking its sales strategy as well as organizational structure.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -112,23 +116,7 @@ skills:
         description: ''
         percent: 100
         icon: custom/sailboat
-  - name: Coding 2
-    items:
-      - name: Python
-        # description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow, keras and transformers (NLP models on CPU or GPU); Data Visualisation incl. seaborn and matplotlib'
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: R
-        # description: 'Data Analytics incl. tidyverse; Modelling incl. caret; Data Visualisation incl. ggplot and RShiny'
-        description: ''
-        percent: 80
-        icon: devicon/r
-      - name: SQL
-        # description: 'Infrastructure setup; ETL pipelines ready to feed directly in reports'
-        description: ''
-        percent: 40
-        icon: devicon/azuresqldatabase
+
 
 languages:
   - name: German
