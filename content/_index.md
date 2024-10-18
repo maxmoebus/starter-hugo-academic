@@ -62,7 +62,7 @@ sections:
           - Causality
 
     design:
-      columns: '1'
+      columns: '2'
       spacing:
          is_fullscreen: true
          padding: ['50px', '0px', '50px', '0px']
