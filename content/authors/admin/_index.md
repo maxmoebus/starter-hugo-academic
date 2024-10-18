@@ -81,8 +81,8 @@ work:
     company_name: Amazon
     company_url: https://www.aboutamazon.com/what-we-do/delivery-logistics
     company_logo: "custom/amazon_logo"
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-06-15
+    date_end: 2020-09-18
     summary: |
               At Amazon, I interned in the European Transportation Team and developed automated statistical analytics tools, reporting systems, and data pipelines to ensure that promised delivery times were met for 3 billion packages per year.
   - position: Business Analytics Intern
@@ -116,15 +116,18 @@ skills:
   - name: Coding
     items:
       - name: Python
-        description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow, keras and transformers (NLP models on CPU or GPU); Data Visualisation incl. seaborn and matplotlib'
+        # description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow, keras and transformers (NLP models on CPU or GPU); Data Visualisation incl. seaborn and matplotlib'
+        description: ''
         percent: 80
         icon: devicon/python
       - name: R
-        description: 'Data Analytics incl. tidyverse; Modelling incl. caret; Data Visualisation incl. ggplot and RShiny'
+        # description: 'Data Analytics incl. tidyverse; Modelling incl. caret; Data Visualisation incl. ggplot and RShiny'
+        description: ''
         percent: 80
         icon: devicon/r
       - name: SQL
-        description: 'Infrastructure setup; ETL pipelines ready to feed directly in reports'
+        # description: 'Infrastructure setup; ETL pipelines ready to feed directly in reports'
+        description: ''
         percent: 40
         icon: devicon/azuresqldatabase
   - name: Hobbies
