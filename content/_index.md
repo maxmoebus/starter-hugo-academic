@@ -43,9 +43,7 @@ sections:
   #       padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: | 
-      
-      👋
+      title: About me
       subtitle: ''
       text: |
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
