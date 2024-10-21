@@ -103,15 +103,15 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: "custom/football.svg"
+        icon: custom/football_2
       - name: Skiing
         description: ''
         percent: 100
-        icon: "custom/ski.svg"
+        icon: custom/ski_2
       - name: Sailing 
         description: ''
         percent: 100
-        icon: "custom/sailboat.svg"
+        icon: custom/sailboat_2
   - name: Coding 2
     items:
       - name: Python
