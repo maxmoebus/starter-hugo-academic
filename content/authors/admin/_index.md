@@ -107,8 +107,8 @@ skills:
       - name: Skiing
         description: ''
         percent: 100
-        icon: ski.svg
-      - name: "custom/Sailing" 
+        icon: "custom/ski"
+      - name: Sailing 
         description: ''
         percent: 100
         icon: "custom/sailboat"
