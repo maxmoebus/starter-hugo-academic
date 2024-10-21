@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Uses
 date: 2023-10-24
 pager: false
@@ -18,4 +18,4 @@ I often get asked about what software or hardware I use, so this page will serve
 
 ## Desktop Apps
 
-- Better Touch Tool for window management and custom keyboard shortcuts
+- Better Touch Tool for window management and custom keyboard shortcuts -->

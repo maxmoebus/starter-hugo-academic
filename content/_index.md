@@ -60,9 +60,7 @@ sections:
           - Methods for Event Prediction
           - Methods for Irregular Time Series
           - Causality
-
     design:
-      columns: '2'
       spacing:
          is_fullscreen: true
          padding: ['50px', '0px', '50px', '0px']
