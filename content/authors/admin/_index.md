@@ -36,7 +36,7 @@ profiles:
     url: 'mailto:max.moebus@inf.ethz.ch'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/maxmoebus
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/max-moebus-6a353216b/
     label: Hit me up on LinkedIn!
