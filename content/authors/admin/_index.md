@@ -112,23 +112,6 @@ skills:
         description: ''
         percent: 100
         icon: custom/sailboat_2
-  - name: Coding 2
-    items:
-      - name: Python
-        # description: 'Data Analytics incl. pandas, numpy and scipy; Modelling incl. sklearn, tensorflow, keras and transformers (NLP models on CPU or GPU); Data Visualisation incl. seaborn and matplotlib'
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: R
-        # description: 'Data Analytics incl. tidyverse; Modelling incl. caret; Data Visualisation incl. ggplot and RShiny'
-        description: ''
-        percent: 80
-        icon: devicon/r
-      - name: SQL
-        # description: 'Infrastructure setup; ETL pipelines ready to feed directly in reports'
-        description: ''
-        percent: 40
-        icon: devicon/azuresqldatabase
 
 languages:
   - name: German
