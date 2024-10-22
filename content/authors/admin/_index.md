@@ -56,7 +56,7 @@ education:
     date_start: 2020-09-01
     date_end: 2021-08-31
   - area: BSc Statistics
-    institution: Universoty College London (UCL)
+    institution: University College London (UCL)
     date_start: 2017-09-01
     date_end: 2020-08-31
 
