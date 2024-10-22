@@ -52,7 +52,7 @@ work:
   - position: Business Analysis Intern
     company_name: Amazon
     company_url: https://www.aboutamazon.com/what-we-do/delivery-logistics
-    company_logo: amazon_logo
+    company_logo: amazon
     date_start: 2020-06-15
     date_end: 2020-09-18
     summary: |
@@ -60,7 +60,7 @@ work:
   - position: Business Analytics Intern
     company_name: Auto1 Group
     company_url: https://www.auto1-group.com/
-    company_logo: auto1_logo
+    company_logo: auto1
     date_start: 2019-06-15
     date_end: 2019-09-30
     summary: |
@@ -68,7 +68,7 @@ work:
   - position: Actuarial Science and Product Development Intern
     company_name: Talanx Group
     company_url: https://www.talanx.com/
-    company_logo: talanx_logo
+    company_logo: talanx
     date_start: 2018-07-01
     date_end: 2018-09-30
     summary: |
@@ -76,7 +76,7 @@ work:
   - position: Management Consulting Intern
     company_name: Kienbaum Consultants International
     company_url: https://www.kienbaum.com/
-    company_logo: kienbaum_logo
+    company_logo: kienbaum
     date_start: 2017-01-01
     date_end: 2017-03-30
     summary: |
