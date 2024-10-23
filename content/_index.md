@@ -69,10 +69,9 @@ sections:
       title: Recent Publications
       subtitle: ''
       text: |
-        You can check out a full list of my publications [<ins>here</ins>](./publication/).
+        You can check out a full list of my publications <span style="background-color:green">[<ins>here</ins>](./publication/)</span>.
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
