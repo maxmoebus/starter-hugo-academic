@@ -71,17 +71,31 @@ sections:
       text: |
         You can check out a full list of my publications <span style="background-color:green">[<ins>here</ins>](./publication/)</span>.
 
-        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px;border-top-left-radius:2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-right-radius: 2px">
+        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px;border-top-left-radius:5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-right-radius: 5px">
         <a href="/donate">Button 1</a>
         </div>
 
-        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-right-radius: 2px margin-top:30px">
+        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-right-radius: 5px margin-top:30px">
         <a href="/blog">Button 2</a>
         </div>
         
-        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 40px 40px 40px;border-top-left-radius:2px; border-top-right-radius:2px; border-bottom-right-radius: 2px; border-bottom-right-radius: 2px margin-top:30px">
+        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 40px 40px 40px;border-top-left-radius:5px; border-top-right-radius:5px; border-bottom-right-radius: 5px; border-bottom-right-radius: 5px margin-top:30px">
         <a href="/blog">Button 3</a>
         </div>
+
+
+        <div style="overflow: auto;width: 100%;">
+          <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 40px 40px 40px;border-top-left-radius:5px; border-top-right-radius:5px; border-bottom-right-radius: 5px; border-bottom-right-radius: 5px margin-top:30px">
+            <a href="/blog">Button 3</a>
+          </div>
+          <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-right-radius: 5px margin-top:30px">
+            <a href="/blog">Button 2</a>
+          </div>
+          <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px;border-top-left-radius:5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-right-radius: 5px">
+            <a href="/donate">Button 1</a>
+          </div>
+        </div>
+
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
