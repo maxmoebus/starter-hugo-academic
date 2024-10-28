@@ -48,9 +48,7 @@ sections:
       text: |
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
-        Before joining ETH SIPLAB, I completed the MSc in Statistical Science at the University of Oxford and the BSc in Statistics at University College London (UCL). During my time at the University of Oxford, I worked as a Research Assistant with Dr. Matthias Qian and Professor Mari Sako, where I focused on constructing natural language processing (NLP) models for text classification.
-
-        Besides my studies, I interned in Data Analytics teams at tech companies (Amazon and Auto1 Group), in the Actuarial Science team at an insurance company (Talanx Group) and in Management Consulting (Process Excellence division) at Kienbaum Consultants International (now EY). 
+        My research primarily revolves around biomedical time series for disease modeling and prediction. Initially, I analyzed ratings of perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed methods to enhance the information extracted from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)), modeled disease and mortality risk based on wearable sensors at a population scale (see preprints on the UK Biobank), and am currently exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes, focusing on interpretability and causality.
 
         **Research Interests:**
         - Predictive Medicine & Mobile Health
@@ -58,8 +56,8 @@ sections:
           - Perceived Health
         - Statistical Machine Learning
           - Methods for Event Prediction
-          - Methods for Irregular Time Series
-          - Causality
+          - Methods for Multimodal Irregular Time Series
+          - Interpretability & Causality
     design:
       spacing:
          is_fullscreen: true
