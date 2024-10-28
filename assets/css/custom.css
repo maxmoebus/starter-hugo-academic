@@ -91,7 +91,7 @@
     /* } */
   
     .bio-text {
-      max-width: 680px;
+      max-width: 750px;
     }
   }
   
@@ -101,7 +101,7 @@
     height: 350px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -2rem;
+    margin-top: -3rem;
   }
   
   .avatar-emoji {
