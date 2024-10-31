@@ -127,9 +127,17 @@
 
 
   span.mybuttons {
-    background-color:rgba(0, 0, 0, 0.0470588);
+    background-color: rgb(55, 48, 163);
     padding:3px;
     margin:3px;
     border-radius: 3px;
     display: inline;
  }
+
+ .dark span.mybuttons {
+  background-color: rgb(79, 70, 229);
+  padding:3px;
+  margin:3px;
+  border-radius: 3px;
+  display: inline;
+}

@@ -85,7 +85,7 @@ sections:
 
         Test text Test text <div class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></div> Test text Test text
 
-        <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. <span class="mybuttons">Aliquam</span> <span class="mybuttons">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
+        <div> Most of my past projects have involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> rating such as fatigue or sleep quality or in the fields of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
