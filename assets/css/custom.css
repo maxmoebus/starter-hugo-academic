@@ -1,5 +1,5 @@
 .content {
-  max-width: 100rem;
+  max-width: 100%;
 }
 
 .resume-biography {
@@ -95,7 +95,7 @@
     /* } */
   
     .bio-text {
-      max-width: 90%;
+      max-width: 100%;
     }
   }
   
