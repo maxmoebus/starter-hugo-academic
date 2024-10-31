@@ -127,14 +127,10 @@
 
 
   .mybuttons {
-    max-width:50%;
-    min-width:150px;
     background-color:rgba(0, 0, 0, 0.0470588);
     padding:3px;
     margin:3px;
     border-radius: 3px;
-    text-align:center;
-    clear: left;
     display: inline-block;
     display: inline block;
  }
