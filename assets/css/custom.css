@@ -134,8 +134,7 @@
     margin:3px;
     border-radius: 3px;
     text-align:center;
-    vertical-align: middle;
-    float:  left;
     clear: left;
     display: inline-block;
+    display: inline block;
  }
