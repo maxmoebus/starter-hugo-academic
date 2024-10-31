@@ -69,7 +69,7 @@ sections:
       text: |
         <div> You can check out a full list of my publications <span class="mybuttons"><a href="/publication/">here</a></span>.</div>
 
-        <div> Most of my past projects have involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> rating such as fatigue or sleep quality or in the field of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
+        <div> Most of my past projects have involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> such as fatigue or sleep quality or in the field of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
