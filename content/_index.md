@@ -83,7 +83,7 @@ sections:
         </div>
         .
 
-        Test text Test text <div class=mybuttons><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></div> Test text Test text
+        Test text Test text <div class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></div> Test text Test text
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
