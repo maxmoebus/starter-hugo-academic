@@ -1,3 +1,7 @@
+.content {
+  max-width: 100rem;
+}
+
 .resume-biography {
     #profile {
       text-align: center;
@@ -91,7 +95,7 @@
     /* } */
   
     .bio-text {
-      max-width: 1050px;
+      max-width: 90%;
     }
   }
   
