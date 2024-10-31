@@ -67,25 +67,9 @@ sections:
       title: Recent Publications
       subtitle: ''
       text: |
-        You can check out a full list of my publications <span style="background-color:green">[<ins>here</ins>](./publication/)</span>.
+        <div> You can check out a full list of my publications <span class="mybuttons"><a href="/publication/">here</a></span>.</div>
 
-        Most of my past projects focused on 
-        <div style="width: 50px; background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:10px;border-top-left-radius:8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px">
-        <a href="/tags/interpretable-modeling/">interpretable modeling techniques</a>
-        </div>
-        trying to derive insights about the drivers of
-        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:10px;border-top-left-radius:8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px">
-        <a href="/tags/perceived-health/">perceived health</a>
-        </div>
-        ratings such as fatigue of sleep quality or in the filed of 
-        <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:10px;border-top-left-radius:8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px">
-        <a href="/tags/hci/">HCI</a>
-        </div>
-        .
-
-        Test text Test text <div class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></div> Test text Test text
-
-        <div> Most of my past projects have involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> rating such as fatigue or sleep quality or in the fields of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
+        <div> Most of my past projects have involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> rating such as fatigue or sleep quality or in the field of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication

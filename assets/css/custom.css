@@ -128,16 +128,16 @@
 
   span.mybuttons {
     background-color: rgb(55, 48, 163);
-    padding:3px;
-    margin:3px;
-    border-radius: 3px;
+    padding:1px;
+    margin:1px;
+    border-radius: 2px;
     display: inline;
  }
 
  .dark span.mybuttons {
   background-color: rgb(79, 70, 229);
-  padding:3px;
-  margin:3px;
-  border-radius: 3px;
+  padding:1px;
+  margin:1px;
+  border-radius: 2px;
   display: inline;
 }
