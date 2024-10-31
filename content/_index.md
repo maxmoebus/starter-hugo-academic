@@ -85,6 +85,8 @@ sections:
 
         Test text Test text <div class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></div> Test text Test text
 
+        <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. <span class="b">Aliquam</span> <span class="b">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
+
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
       count: 5

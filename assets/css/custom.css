@@ -126,10 +126,10 @@
   }
 
 
-  .mybuttons {
-    /* background-color:rgba(0, 0, 0, 0.0470588);
+  span.mybuttons {
+    background-color:rgba(0, 0, 0, 0.0470588);
     padding:3px;
     margin:3px;
-    border-radius: 3px; */
+    border-radius: 3px;
     display: inline;
  }
