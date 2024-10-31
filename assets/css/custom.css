@@ -127,7 +127,8 @@
 
 
   span.mybuttons {
-    background-color: rgb(55, 48, 163);
+    background-color: rgb(199, 210, 254);
+    /* background-color: rgb(165, 180, 252); */
     padding:1px;
     margin:1px;
     border-radius: 2px;
