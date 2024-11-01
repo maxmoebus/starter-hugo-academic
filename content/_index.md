@@ -9,7 +9,10 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text:
+      text: Test Test Test Text Test Test Test Text Test Test Test Text Test Test Test Text Test Test Test Text
+      button:
+        text: Download CV
+        url: uploads/Max_Moebus_CV.pdf
     design:
       css_class: dark
       background:
@@ -48,16 +51,8 @@ sections:
       text: |
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
-        My research primarily revolves around biomedical time series for disease modeling and prediction. Initially, I analyzed ratings of perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed methods to enhance the information extracted from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)) and modeled disease and mortality risk based on wearable sensors at a population scale (see preprints on the UK Biobank). Currently, I am exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes, focusing on interpretability and causality.
+        My research primarily revolves around biomedical time series for disease (risk) modeling. Initially, I analyzed perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed new methods to extract information from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)) and modeled disease and mortality risk based on wearable sensors at a population scale (see preprints on the UK Biobank). Currently, I am exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes with a focus on interpretability and causality.
 
-        **Research Interests:**
-        - Predictive Medicine & Mobile Health
-          - Wrist-worn Wearables
-          - Perceived Health
-        - Statistical Machine Learning
-          - Methods for Event Prediction
-          - Methods for Multimodal Irregular Time Series
-          - Interpretability & Causality
     design:
       spacing:
          is_fullscreen: true
@@ -69,7 +64,7 @@ sections:
       text: |
         <div> You can check out a full list of my publications <span class="mybuttons"><a href="/publication/">here</a></span>.</div>
 
-        <div> Most of my past projects have involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling techniques</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> such as fatigue or sleep quality or in the field of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
+        <div>Most of my past projects required <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretability</a></span> either trying to derive drivers of <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span> such as fatigue or sleep quality or in the field of <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>. </div>
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
