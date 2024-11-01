@@ -64,7 +64,7 @@ sections:
       title: Recent Publications
       subtitle: ''
       text: |
-        Below are a some of the most recent publications I've been involved in. You can check out a full list of my publications [here](./publication/).
+        Below are some of the most recent publications I've been involved in. You can check out a full list of my publications [here](./publication/).
         
         There are a few common themes: [interpretable modeling](./tags/interpretable-modeling/), [mobile health](./tags/mobile-health/), [perceived health](./tags/perceived-health/), and [human computer interaction](./tags/hci/).
         
