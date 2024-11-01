@@ -51,7 +51,7 @@ sections:
       text: |
         I am working as a PhD student with Professor Christian Holz at the [Sensing, Interaction & Perception Lab](https://siplab.org/) at [ETH Zurich](https://inf.ethz.ch/). My focus lies on applying statistics and statistical machine learning to large medical datasets.
 
-        My research primarily revolves around biomedical time series for disease (risk) modeling. Initially, I analyzed perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed new methods to extract information from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)) and modeled disease and mortality risk based on wearable sensors at a population scale (see preprints on the UK Biobank). Currently, I am exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes with a focus on interpretability and causality.
+        My research primarily revolves around biomedical time series for disease (risk) modeling. Initially, I analyzed perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed new methods to extract information from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)) and modeled disease and mortality risk based on wearable sensors at a population scale on the UK Biobank (currently under review). Currently, I am exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes with a focus on interpretability and causality.
 
     design:
       spacing:
