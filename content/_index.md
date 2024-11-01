@@ -66,8 +66,11 @@ sections:
       text: |
         Below are a some of the most recent publications I've been involved in. You can check out a full list of my publications <span class="mybuttons"><a href="/publication/">here</a></span>.
 
-        There are a few common themes: <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling</a></span>, <span class="mybuttons"><a href="/tags/mobile-health/">mobile health</a></span>, <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span>, and <span class="mybuttons"><a href="/tags/hci/">human computer interaction</a></span>.
-        Most of my past projects involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling</a></span> techniques to better understand the outcome of interest rather than simply predicting it. A few publications focus on <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span>, such as fatigue or sleep quality, and I've been a sidekick on a few publications in <span class="mybuttons"><a href="/tags/hci/">human computer interaction</a></span>, where I mainly contributed to the (interpretable) statistical analysis.
+        There are a few common themes: <a href="/tags/interpretable-modeling/">interpretable modeling</a>, <a href="/tags/mobile-health/">mobile health</a>, <a href="/tags/perceived-health/">perceived health</a>, and <a href="/tags/hci/">human computer interaction</a>.
+        
+        # Most of my past projects involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling</a></span> techniques to better understand the outcome of interest rather than simply predicting it. A few publications focus on <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span>, such as fatigue or sleep quality, and I've been a sidekick on a few publications in <span class="mybuttons"><a href="/tags/hci/">human computer interaction</a></span>, where I mainly contributed to the (interpretable) statistical analysis.
+
+        Most of my past projects involved <a href="/tags/interpretable-modeling/">interpretable modeling</a> techniques to better understand the outcome of interest rather than simply predicting it. A few publications focus on <a href="/tags/perceived-health/">perceived health</a>, such as fatigue or sleep quality, and I've been a sidekick on a few publications in <a href="/tags/hci/">human computer interaction</a>, where I mainly contributed to the (interpretable) statistical analysis.
 
       # Page type to display. E.g. post, talk, publication...
       page_type: publication
