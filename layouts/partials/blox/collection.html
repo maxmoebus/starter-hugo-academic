@@ -62,8 +62,9 @@
 {{ if $block.content.filters.exclude_future }}
   {{ $query = where $query "Date" "<" now }}
 {{ end }}
-
-{{ $count := len $query }}
+{{ if $block.content.title }}
+    {{ $text := $block.content.text | markdownify | $page.RenderString | safeHTML }}
+{{ end }}
 
 {{/* Sort */}}
 {{ $sort_by := $block.content.sort_by | default "Date" }}
@@ -89,7 +90,7 @@
   </div>
 
   {{/*  {{ with $block.content.text }}<p>{{ . | emojify | $page.RenderString }}</p>{{ end }}  */}}
-  {{ with $block.content.text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert !max-w-none">{{ . }}</div>{{ end }}
+  {{ with $text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert !max-w-none">{{ . }}</div>{{ end }}
 </div>
 {{ end }}
 
