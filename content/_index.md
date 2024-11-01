@@ -50,7 +50,12 @@ sections:
 
         My research primarily revolves around biomedical time series for disease (risk) modeling. Initially, I analyzed perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed new methods to extract information from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)) and modeled disease and mortality risk based on wearable sensors at a population scale on the UK Biobank (currently under review). Currently, I am exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes with a focus on interpretability and causality.
 
-        <div>You can download my CV .<span class="mybuttons"><a href="/uploads/Max_Moebus_CV.pdf">here</a></span>.</div>
+        <div>You can download my CV <span class="mybuttons"><a href="/uploads/max_moebus_cv.pdf">here</a></span>.</div>
+
+        <a href="/uploads/max_moebus_cv.pdf" target="_blank" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700"><svg class="w-3.5 h-3.5 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+        <path d="M14.707 7.793a1 1 0 0 0-1.414 0L11 10.086V1.5a1 1 0 0 0-2 0v8.586L6.707 7.793a1 1 0 1 0-1.414 1.414l4 4a1 1 0 0 0 1.416 0l4-4a1 1 0 0 0-.002-1.414Z"/>
+        <path d="M18 12h-2.55l-2.975 2.975a3.5 3.5 0 0 1-4.95 0L4.55 12H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2Zm-3 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"/>
+        </svg> You can download my CV here.</a>
 
     design:
       spacing:
