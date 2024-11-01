@@ -10,9 +10,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text:
-      button:
-        text: Download CV
-        url: uploads/Max_Moebus_CV.pdf
     design:
       css_class: dark
       background:
@@ -53,6 +50,10 @@ sections:
 
         My research primarily revolves around biomedical time series for disease (risk) modeling. Initially, I analyzed perceived health using wearable sensor data in intensive longitudinal studies (see my [<ins>Publications on perceived health</ins>](./tags/perceived-health/)). Since then, I have developed new methods to extract information from wearables (e.g., [<ins>Nightbeat</ins>](./publication/2024-11-15-bhi-hraccsleep/)) and modeled disease and mortality risk based on wearable sensors at a population scale on the UK Biobank (currently under review). Currently, I am exploring methodologies to link irregular, multimodal biomedical time series to disease outcomes with a focus on interpretability and causality.
 
+        <div>You can download my CV .<span class="mybuttons"><a href="/uploads/Max_Moebus_CV.pdf">here</a></span>.</div>
+button:
+        text: Download CV
+        url: 
     design:
       spacing:
          is_fullscreen: true
@@ -67,7 +68,7 @@ sections:
         <div>There are a few common themes: <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling</a></span>, <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span>, and <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>.
         Most of my past projects involved <span class="mybuttons"><a href="/tags/interpretable-modeling/">interpretable modeling</a></span> techniques to better understand the outcome of interest rather than simply predicting it. A few publications focus on <span class="mybuttons"><a href="/tags/perceived-health/">perceived health</a></span>, such as fatigue or sleep quality, and I've been a sidekick on a few publications in <span class="mybuttons"><a href="/tags/hci/">Human Computer Interaction</a></span>, where I mainly contributed to the (interpretable) statistical analysis.
         
-        Below are a some of most recent publications I've been involved in.</div>
+        Below are a some of the most recent publications I've been involved in.</div>
 
 
       # Page type to display. E.g. post, talk, publication...
