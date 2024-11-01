@@ -63,7 +63,7 @@
   {{ $query = where $query "Date" "<" now }}
 {{ end }}
 {{ if $block.content.title }}
-    {{ $text := $block.content.text | markdownify | $page.RenderString | safeHTML }}
+  {{ $text = $block.content.text | markdownify | $page.RenderString | safeHTML }}
 {{ end }}
 
 {{/* Sort */}}
