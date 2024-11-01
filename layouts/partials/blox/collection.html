@@ -88,7 +88,8 @@
     {{ $block.content.title | emojify | $page.RenderString }}
   </div>
 
-  {{ with $block.content.text }}<p>{{ . | emojify | $page.RenderString }}</p>{{ end }}
+  {{/*  {{ with $block.content.text }}<p>{{ . | emojify | $page.RenderString }}</p>{{ end }}  */}}
+  {{ with $block.content.text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert !max-w-none">{{ . }}</div>{{ end }}
 </div>
 {{ end }}
 
