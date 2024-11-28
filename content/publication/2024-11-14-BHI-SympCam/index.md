@@ -1,15 +1,15 @@
 ---
-title: "Nightbeat: Heart Rate Estimation From a Wrist-Worn Accelerometer During Sleep"
+title: "SympCam: Remote Optical Measurement of Sympathetic Arousal"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Lars Hauptmann
-- Nicolas Kopp
-- Berken Demirel
 - Björn Braun
+- Daniel McDuff
+- Tadas Baltrusaitis
+- Paul Streli
+- admin
 - Christian Holz
 
 # Author notes (optional)
@@ -17,11 +17,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2024-11-15T00:00:00Z"
+date: "2024-11-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-12T00:00:00Z"
+publishDate: "2024-10-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,16 +30,16 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In 2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)
-publication_short: In IEEE *BHI 2024 (TO APPEAR)*
+publication_short: In *BHI 2024*
 
 abstract: >-
-  Today’s fitness bands and smartwatches typically track heart rates (HR) using optical sensors. Large behavioral studies such as the UK Biobank use activity trackers without such optical sensors and thus lack HR data, which could reveal valuable health trends for the wider population. In this paper, we present the first dataset of wrist-worn accelerometer recordings and electrocardiogram references in uncontrolled at-home settings to investigate the recent promise of IMU-only HR estimation via ballistocardiograms. Our recordings are from 42 patients during the night, totaling 310 hours. We also introduce a frequency-based method to extract HR via curve tracing from IMU recordings while rejecting motion artifacts. Using our dataset, we analyze existing baselines and show that our method achieves a mean absolute error of 0.88 bpm—76% better than previous approaches. Our results validate the potential of IMU-only HR estimation as a key indicator of cardiac activity in existing longitudinal studies to discover novel health insights. Our dataset, Nightbeat-DB, and our source code are available on GitHub: https://github.com/eth-siplab/Nightbeat.
+  Recent work has shown that a person’s sympathetic arousal can be estimated from facial videos alone using basic signal processing. This opens up new possibilities in the field of telehealth and stress management, providing a non-invasive method to measure stress only using a regular RGB camera. In this paper, we present SympCam, a new 3D convolutional architecture tailored to the task of remote sympathetic arousal prediction. Our model incorporates a temporal attention module (TAM) to enhance the temporal coherence of our sequential data processing capabilities. The predictions from our method improve accuracy metrics of sympathetic arousal in prior work by 48% to a mean correlation of 0.77. We additionally compare our method with common remote photoplethysmography (rPPG) networks and show that they alone cannot accurately predict sympathetic arousal “out-of-the-box”. Furthermore, we show that the sympathetic arousal predicted by our method allows detecting physical stress with a balanced accuracy of 90%---an improvement of 61% compared to the rPPG method commonly used in related work, demonstrating the limitations of using rPPG alone. Finally, we contribute a dataset designed explicitly for the task of remote sympathetic arousal prediction. Our dataset contains synchronized face and hand videos of 20 participants from two cameras synchronized with electrodermal activity (EDA) and photoplethysmography (PPG) measurements. We will make this dataset available to the community and use it to evaluate the methods in this paper. To the best of our knowledge, this is the first dataset available to other researchers designed for remote sympathetic arousal prediction.
 
 #summary: We extract HR from wrist-worn accelerometers during sleep by tracing HR curves in the frequncy domain. Our approach further includes motion artifact removal and simple post-processing to bring down the MAE to 0.88 BPM averaged across participants of our novel dataset.
 summary: ""
 
 tags:
-- Mobile Health
+- Affective Computing
 
 # Display this page in the Featured widget?
 featured: true
@@ -71,7 +71,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 2024-11-15-BHI-HRAccSleep
+- 2024-11-14-BHI-SympCam
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
