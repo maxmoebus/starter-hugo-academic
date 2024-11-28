@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
-publication_short: In *UIST 2023*
+publication_short: In ACM *UIST 2023*
 
 abstract: >-
   When learning to play an instrument, it is crucial for the learner’s muscles to be in a relaxed state when practicing. Identifying, which parts of a song lead to increased muscle tension requires self-awareness during an already cognitively demanding task. In this work, we investigate unobtrusive pressure sensing for estimating muscle tension while practicing songs with the guitar. First, we collected data from twelve guitarists. Our apparatus consisted of three pressure sensors (one on each side of the guitar pick and one on the guitar neck) to determine the sensor that is most suitable for automatically estimating muscle tension. Second, we extracted features from the pressure time series that are indicative of muscle tension. Third, we present the hardware and software design of our PressurePick prototype, which is directly informed by the data collection and subsequent analysis.

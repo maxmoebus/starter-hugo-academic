@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
-publication_short: In *UIST Demos 2024*
+publication_short: In ACM *UIST Demos 2024*
 
 abstract: >-
   In this demonstration, we show LLM-for-X, a system-wide short-cut layer that connects any application to backend LLM support through a lightweight popup dialog. LLM-for-X provides users with quick and easy-to-use LLM assistance without context switching to support writing and reading tasks. We show the use of LLM-for-X across several applications, such as Microsoft Office, VSCode, and Adobe Acrobat, which our tool seamlessly connects to the backends of OpenAI ChatGPT and Google Gemini. We also demonstrate the use of our system inside web apps such as Overleaf.
