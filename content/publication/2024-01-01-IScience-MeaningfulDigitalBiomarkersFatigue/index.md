@@ -30,7 +30,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In Cell Press iScience
-publication_short: In *iScience*
+publication_short: In Cell Press *iScience*
 
 abstract: Fatigue is the most common symptom among multiple sclerosis (MS) patients and severely affects the quality of life. We investigate how perceived fatigue can be predicted using biomarkers collected from an arm-worn wearable sensor for MS patients (n = 51) and a healthy control group (n = 23) at an unprecedented time resolution of more than five times per day. On average, during our two-week study, participants reported their level of fatigue 51 times totaling more than 3,700 data points. Using interpretable generalized additive models, we find that increased physical activity, heart rate, sympathetic activity, and parasympathetic activity while awake and asleep relate to perceived fatigue throughout the day—partly affected by dysfunction of the ANS. We believe our analysis opens up new research opportunities for fine-grained modeling of perceived fatigue based on passively collected physiological signals using wearables—for MS patients and healthy controls alike.
 
