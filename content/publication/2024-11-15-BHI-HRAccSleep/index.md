@@ -17,20 +17,20 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2024-11-15T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-12T00:00:00Z"
+publishDate: "2025-02-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In 2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)
-publication_short: In IEEE *BHI 2024 (TO APPEAR)*
+publication: In IEEE Journal of Biomedical and Health Informatics (JBHI)
+publication_short: In IEEE JBHI (**Oral Presentation at BHI'24**)
 
 abstract: >-
   Today’s fitness bands and smartwatches typically track heart rates (HR) using optical sensors. Large behavioral studies such as the UK Biobank use activity trackers without such optical sensors and thus lack HR data, which could reveal valuable health trends for the wider population. In this paper, we present the first dataset of wrist-worn accelerometer recordings and electrocardiogram references in uncontrolled at-home settings to investigate the recent promise of IMU-only HR estimation via ballistocardiograms. Our recordings are from 42 patients during the night, totaling 310 hours. We also introduce a frequency-based method to extract HR via curve tracing from IMU recordings while rejecting motion artifacts. Using our dataset, we analyze existing baselines and show that our method achieves a mean absolute error of 0.88 bpm—76% better than previous approaches. Our results validate the potential of IMU-only HR estimation as a key indicator of cardiac activity in existing longitudinal studies to discover novel health insights. Our dataset, Nightbeat-DB, and our source code are available on GitHub: https://github.com/eth-siplab/Nightbeat.
