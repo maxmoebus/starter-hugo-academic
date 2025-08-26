@@ -49,7 +49,7 @@ profiles:
 education:
   - area: PhD Computer Science
     institution: ETH Zurich
-    date_start: 2021-04-01
+    date_start: 2022-04-01
     date_end: ''
   - area: MSc Statistical Science
     institution: University of Oxford
