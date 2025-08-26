@@ -49,6 +49,14 @@ profiles:
 education: []
 
 work:
+  - position: Quantitative Strategist Summer Associate
+    company_name: Goldman Sachs
+    company_url: https://www.goldmansachs.com/
+    company_logo: gs
+    date_start: 2025-06-15
+    date_end: 2025-08-22
+    summary: |
+              At Goldman, I interned as a strat (i.e., quant) in the Risk Division focusing on counterparty credit risk. During my internship, I proposed a new probability of default (PD) model to meet regulator requirements for capital calculations.
   - position: Business Analysis Intern
     company_name: Amazon
     company_url: https://www.aboutamazon.com/what-we-do/delivery-logistics
