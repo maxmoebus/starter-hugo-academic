@@ -3,7 +3,7 @@
 title: Max Moebus
 
 # Name pronunciation (optional)
-name_pronunciation: Max Möbus
+# name_pronunciation: Max Möbus
 
 # Full name (for SEO)
 first_name: Max
