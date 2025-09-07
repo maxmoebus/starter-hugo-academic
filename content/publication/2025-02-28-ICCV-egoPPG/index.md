@@ -5,11 +5,10 @@ title: "Nightbeat: Heart Rate Estimation From a Wrist-Worn Accelerometer During 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Lars Hauptmann
-- Nicolas Kopp
-- Berken Demirel
 - Björn Braun
+- Rayan Armani
+- Manuel Meier
+- admin
 - Christian Holz
 
 # Author notes (optional)
@@ -17,19 +16,19 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2025-02-01T00:00:00Z"
+date: "2025-02-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-01T00:00:00Z"
+publishDate: "2025-02-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['article-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE Journal of Biomedical and Health Informatics (JBHI)
+publication: In IEEE/CVF International Conference on Computer Vision (ICCV)
 publication_short: In ICCV
 
 abstract: >-
@@ -71,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 2024-11-15-BHI-HRAccSleep
+- 2025-02-28-ICCV-egoPPG
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
