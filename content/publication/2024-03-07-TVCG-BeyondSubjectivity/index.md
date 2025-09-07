@@ -5,8 +5,8 @@ title: "Beyond Subjectivity: Continuous Cybersickness Detection Using EEG-based 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Berken Utku Demirel
-- Adnan Harun Dogan, 
+- Berken Demirel
+- Adnan Dogan
 - Juliete Rossie
 - admin
 - Christian Holz
@@ -72,7 +72,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 2024-03-07-TVCG-BeyondSubjectivity
+- 2025-03-07-TVCG-BeyondSubjectivity
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
