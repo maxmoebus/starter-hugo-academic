@@ -1,5 +1,5 @@
 ---
-title: "Nightbeat: Heart Rate Estimation From a Wrist-Worn Accelerometer During Sleep"
+title: "egoPPG: Heart Rate Estimation from Eye-Tracking Cameras in Egocentric Systems to Benefit Downstream Vision Tasks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
