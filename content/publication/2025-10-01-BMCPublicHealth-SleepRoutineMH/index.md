@@ -26,19 +26,19 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In BMC Public Health (TO APPEAR)
-publication_short: in BMC Public Health (TO APPEAR)
+publication_short: In BMC Public Health (TO APPEAR)
 
 abstract: >-
-  **Background**: Sleep duration has a well-established effect on mental health and well-being, with durations of 7 to 9 hours being the general recommendation. Here, we analyze the significance of sleep patterns and find that a consistent routine reduces the risk of developing mental disorders far more than simply ensuring a certain average sleep duration.
-  **Methods**: We analyzed the sleep behavior of 100,000 adults for one week using motion data from wrist-worn devices. We modeled sleep behavior using multivariate generalized additive Cox proportional hazard models, incorporating a smooth 2D interaction effect of sleep duration and routine sleep hours. We calculated C-statistics and E-values to evaluate model performance and assess the robustness against hidden confounders. We also stratified analyses by age and gender.
-  **Results**: Most participants slept for 7 to 9 hours as recommended, yet they consistently only slept during the same 4.8 hours each night. We found that an average sleep duration around 8 hours minimizes the risk of future mental disorders—but only if integrated into a rigorous sleep routine spanning at least the same 7 hours each night. Our study provides evidence that adopting such sleep behavior could reduce the population incidence rate of mental disorders by 23% (HR: 0.79, p < 0.0001, for the average participant). The models showed a strong fit (C-statistics: 0.63), robustness to hidden confounders (E-value: 1.8), and stability under age- and gender-based stratification. We identified weekend behavior as a frequent reason for low sleep routines, with over 25% of the population disrupting their weekly sleep routine during weekend nights—raising the risk of future mental disorders by 10%.
+  **Background**: Sleep duration has a well-established effect on mental health and well-being, with durations of 7 to 9 hours being the general recommendation. Here, we analyze the significance of sleep patterns and find that a consistent routine reduces the risk of developing mental disorders far more than simply ensuring a certain average sleep duration.<br>
+  **Methods**: We analyzed the sleep behavior of 100,000 adults for one week using motion data from wrist-worn devices. We modeled sleep behavior using multivariate generalized additive Cox proportional hazard models, incorporating a smooth 2D interaction effect of sleep duration and routine sleep hours. We calculated C-statistics and E-values to evaluate model performance and assess the robustness against hidden confounders. We also stratified analyses by age and gender.<br>
+  **Results**: Most participants slept for 7 to 9 hours as recommended, yet they consistently only slept during the same 4.8 hours each night. We found that an average sleep duration around 8 hours minimizes the risk of future mental disorders—but only if integrated into a rigorous sleep routine spanning at least the same 7 hours each night. Our study provides evidence that adopting such sleep behavior could reduce the population incidence rate of mental disorders by 23% (HR: 0.79, p < 0.0001, for the average participant). The models showed a strong fit (C-statistics: 0.63), robustness to hidden confounders (E-value: 1.8), and stability under age- and gender-based stratification. We identified weekend behavior as a frequent reason for low sleep routines, with over 25% of the population disrupting their weekly sleep routine during weekend nights—raising the risk of future mental disorders by 10%.<br>
   **Conclusions**: Our results suggest that maintaining a consistent sleep routine is more important for mental health than sleep duration alone. Socially disadvantaged groups, including low-income households and ethnic minorities, exhibited poorer sleep routines and thus higher mental disorder risks, underscoring existing social inequalities. Promoting regular sleep behavior may therefore have significant public health benefits.
 
 #summary: We extract HR from wrist-worn accelerometers during sleep by tracing HR curves in the frequncy domain. Our approach further includes motion artifact removal and simple post-processing to bring down the MAE to 0.88 BPM averaged across participants of our novel dataset.
 summary: ""
 
 tags:
-- Interpretable Modelling
+- Interpretable Modeling
 - Mobile Health
 
 # Display this page in the Featured widget?
