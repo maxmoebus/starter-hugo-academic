@@ -26,7 +26,7 @@ publishDate: "2025-10-01T00:00:00Z"
 publication_types: ['article-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Conference on Neural Information Processing Systems 2025 (NeurIPS: TO APPEAR)
+publication: In Conference on Neural Information Processing Systems 2025 (NeurIPS - TO APPEAR)
 publication_short: at NeurIPS'25 (TO APPEAR)
 
 abstract: >-
