@@ -25,8 +25,8 @@ publishDate: "2025-10-01T00:00:00Z"
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In BMC Public Health (TO APPEAR)
-publication_short: In BMC Public Health (TO APPEAR)
+publication: In BMC Public Health
+publication_short: In BMC Public Health
 
 abstract: >-
   **Background**: Sleep duration has a well-established effect on mental health and well-being, with durations of 7 to 9 hours being the general recommendation. Here, we analyze the significance of sleep patterns and find that a consistent routine reduces the risk of developing mental disorders far more than simply ensuring a certain average sleep duration.<br>
